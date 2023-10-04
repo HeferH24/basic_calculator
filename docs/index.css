@@ -1,0 +1,36 @@
+body { 
+    box-sizing: content-box;
+    background-color: #D1DFDF;
+    font-family: monospace;
+}
+#screen {
+    text-align: center;
+    border: 2px #000 solid;
+}
+#screen td {
+    height: 1.8rem;
+}
+td {
+    width: 1.7rem;
+    border-radius: 0.5rem;
+    border: 2px #000 solid;
+    background-color: #333;
+    color: #D1DFDF;
+    padding: 1.2rem;
+}
+
+.key:hover{
+    cursor: pointer;
+}
+table{
+    text-align: center;
+    font-size: 1.3rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 0.8rem; 
+    width: 85%;
+}
